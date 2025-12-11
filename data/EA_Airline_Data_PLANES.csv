@@ -1,0 +1,9 @@
+﻿ID,Typ,Sitzplätze,Heimatflughafen,Kosten €/h
+0,Boeing 737-800,160,STR,6700
+1,ATR 72-600,75,STR,2500
+2,Airbus A320-200,174,FMM,6800
+3,Embraer E190,101,FMM,3000
+4,Embraer E190,108,BER,3800
+5,Embraer E190,106,CGN,4000
+6,Boeing 737-800,162,BER,6200
+7,Boeing 737-800,170,FMM,6600
